@@ -16,7 +16,7 @@
     "faker": "4.1.0",
     "knex": "0.13.0",
     "mssql": "4.0.4",
-    "mysql2": "1.2.0",
+    "mysql2": "3.9.4",
     "pg": "6.2.2",
     "source-map-support": "0.4.15",
     "sqlite3": "3.1.8"
